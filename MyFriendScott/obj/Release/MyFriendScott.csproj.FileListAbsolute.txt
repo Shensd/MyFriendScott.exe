@@ -1,0 +1,8 @@
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\MyFriendScott\MyFriendScott\bin\Release\MyFriendScott.exe.config
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\MyFriendScott\MyFriendScott\bin\Release\MyFriendScott.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\MyFriendScott\MyFriendScott\bin\Release\MyFriendScott.pdb
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Release\MyFriendScott.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Release\MyFriendScott.Properties.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Release\MyFriendScott.csproj.GenerateResource.Cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Release\MyFriendScott.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Release\MyFriendScott.pdb

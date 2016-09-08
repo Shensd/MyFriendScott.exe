@@ -1,0 +1,8 @@
+c:\users\jack\documents\visual studio 2015\Projects\MyFriendScott\MyFriendScott\bin\Debug\MyFriendScott.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\MyFriendScott\MyFriendScott\bin\Debug\MyFriendScott.exe
+c:\users\jack\documents\visual studio 2015\Projects\MyFriendScott\MyFriendScott\bin\Debug\MyFriendScott.pdb
+c:\users\jack\documents\visual studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Debug\MyFriendScott.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Debug\MyFriendScott.exe
+c:\users\jack\documents\visual studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Debug\MyFriendScott.pdb
+c:\users\jack\documents\visual studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Debug\MyFriendScott.Properties.Resources.resources
+c:\users\jack\documents\visual studio 2015\Projects\MyFriendScott\MyFriendScott\obj\Debug\MyFriendScott.csproj.GenerateResource.Cache
